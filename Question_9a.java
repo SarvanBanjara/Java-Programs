@@ -15,6 +15,8 @@ public class Question_9a {
         a = b;
         b = temp;
         System.out.print("a = " + a + " and b = " + b);
+                input.close();
+
 
     }
 }

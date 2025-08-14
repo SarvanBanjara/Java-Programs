@@ -8,6 +8,8 @@ public class Question_7b{
         System.out.print("Enter the time in minutes : ");
         int minutes = input.nextInt();
         System.out.println(minutes/60+" Hours and "+minutes%60+" Minutes");
+                input.close();
+
 
 
         

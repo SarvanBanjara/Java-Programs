@@ -9,6 +9,8 @@ public class Question_4 {
         System.out.print("Enter width of Triangle : ");
         int base = input.nextInt();
         System.out.print("Area of triangle is "+0.5*(height*base)+".");
+                input.close();
+
 
     }
 }

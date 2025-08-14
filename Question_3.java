@@ -9,6 +9,7 @@ public class Question_3{
         float radius = input.nextFloat();
         System.out.print("The Perimeter of circle is "+2*3.14*radius+".");
         System.out.print("\nThe Area of circle is "+3.14*radius*radius+".");
+        input.close();
 
     }
 }

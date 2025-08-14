@@ -12,6 +12,8 @@ public class Question_2 {
         int width = input.nextInt();
         System.out.println("Area of rectangle is " + height * width + ".");
         System.out.print("Perimeter of rectangle is " + 2 * (height + width) + ".");
+                input.close();
+
 
     }
 }

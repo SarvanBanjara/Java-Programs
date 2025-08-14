@@ -10,6 +10,8 @@ public class Question_10{
       System.out.print("Fuel Consumed in L : ");
       int fuel = input.nextInt();
       System.out.println("The Average of bike is : "+(float)distance/fuel);
+              input.close();
+
       
     }
 }

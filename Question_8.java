@@ -15,5 +15,7 @@ public class Question_8{
 
     int time =input.nextInt();
     System.out.println("Simple Interest = "+(float) principle*rate*time/100);
+            input.close();
+
 }
 }

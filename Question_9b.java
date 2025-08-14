@@ -13,5 +13,7 @@ public class Question_9b {
         b=a-b;
         a=a-b;
         System.out.print("a = "+a+" and b = "+b);
+                input.close();
+
     }
 }
